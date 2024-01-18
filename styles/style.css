@@ -331,3 +331,69 @@
     border-radius: 16px;
     background: url(<path-to-image>), lightgray 50% / cover no-repeat;
 }
+
+/* Seventh section start*/
+
+.seventh-section{
+    width: 1320px;
+    height: 616px;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    margin: 0px auto;
+
+}
+.seventh-section-content img{
+    width: 150px;
+    height: 150px;
+    margin: 80px 585px 40px 585px;
+}
+.seventh-section-content h1{
+    color: #070211;
+    font-size: 48px;
+    text-align: center;
+    text-transform: capitalize;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.seventh-section-content p{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    width: 896px;
+    text-align: center;
+    margin: 22px auto;
+}
+
+.seventh-section-email-box input{
+    width: 648px;
+    height: 72px;
+    border-radius: 50px 0px 0px 50px;
+    background: #FFF;
+    border: none;
+    padding-left: 100px;
+}
+.seventh-section-content #first-id{
+    color: #080101;
+    font-family: Inter;
+    font-size: 20px;
+    text-transform: capitalize;
+    
+
+}
+.seventh-section-email-box button{
+    width: 210px;
+    height: 72px;
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    border: none;
+}
+.seventh-section-content .seventh-section-span-one{
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+.seventh-section-content .seventh-section-email-box{
+    text-align: center;
+    margin-top: 48px;
+}
