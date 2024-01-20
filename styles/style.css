@@ -300,7 +300,9 @@
     height: 450px;
     border-radius: 16px;
     background: url(<path-to-image>), lightgray 0px -35.755px / 100% 142.115% no-repeat;
+    
 }
+
 .sixth-section-body .first-line-img-two{
     width: 424px;
     height: 450px;
@@ -450,7 +452,7 @@ footer{
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-top: 90px;
+    margin-top: 60px;
     margin-bottom: 0px;
 }
 .footer-footer{
@@ -460,8 +462,14 @@ footer{
     justify-content: space-between;
     margin-left: 200px;
     margin-right: 200px;
-    margin-top: 90px;
+    margin-top: 40px;
 
+}
+.footer-section hr{
+    width: 1320px;
+    height: 1px;
+    background: rgba(255, 255, 255, 0.15);
+    margin-top: 60px;    
 }
 
 /* End of the footer */
